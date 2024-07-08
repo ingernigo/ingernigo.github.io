@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingernigo.github.io/sitemap
+Sitemap: https://ingernigo.github.io/app/sitemap
+Sitemap: https://ingernigo.github.io/assets/sitemap
+Sitemap: https://ingernigo.github.io/css/sitemap
+Sitemap: https://ingernigo.github.io/includes/sitemap
+Sitemap: https://ingernigo.github.io/item/sitemap
+Sitemap: https://ingernigo.github.io/src/sitemap
